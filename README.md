@@ -1,6 +1,5 @@
 # FiveMServerMultiLauncher
- Year 2022 New Year, New Name, New Start...
-Chilled Vibes FiveM Server Launcher
+WE ARE BACK AND BETTER THAN EVER CHILLED OUT RP NYC BASED
 
 extract to new folder don't delete data folder,
 run exe, if u can't open press more information,
